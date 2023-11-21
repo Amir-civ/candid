@@ -1,0 +1,14 @@
+'050':
+  device_name: witmotion_imu
+  callback: witmotion_cb
+# '601':
+#   device_name: roboteq_f
+#   callbacks:
+
+# '602':
+#   device_name: roboteq_l
+#   callbacks:
+
+# '603':
+#   device_name: roboteq_r
+#   callbacks:
